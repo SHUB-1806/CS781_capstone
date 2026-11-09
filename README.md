@@ -1,11 +1,5 @@
 # CS781: Special Topics in NLP — Capstone Project (Legal NLP)
 
-[![Course](https://img.shields.io/badge/Course-CS781%20Special%20Topics%20in%20NLP-blue.svg)](https://www.cse.iitk.ac.in/)
-[![Institution](https://img.shields.io/badge/IIT%20Kanpur-CSE%20Department-orange.svg)](https://www.iitk.ac.in/)
-[![Author](https://img.shields.io/badge/Author-Shubham%20Joshi-green.svg)](https://github.com/SHUB-1806)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-
 **Student:** Shubham Joshi  
 **Roll Number:** 240500  
 **Email:** `shubhamj24@iitk.ac.in` / `shubhammaheshjoshi@gmail.com`  
@@ -91,18 +85,6 @@ Training was optimized for dual NVIDIA T4 GPUs using:
 - **Token Budget Allocation:** High-capacity Model A & B on 200M tokenizers, Model C on 100M tokenizers, and Model D on 25M tokenizers to resolve hardware OOM constraints.
 
 ---
-
-## 📖 Citation & Contact
-
-If you find this work or the legal NLP implementations useful, please cite:
-```bibtex
-@article{joshi2026legalnlp,
-  title   = {Comparative Analysis of Parameter-Efficient Adaptation, Distillation, and Hybrid Retrieval for Indian Legal NLP},
-  author  = {Joshi, Shubham},
-  journal = {CS781 Capstone Project Report, Department of Computer Science and Engineering, IIT Kanpur},
-  year    = {2026}
-}
-```
 
 For questions or inquiries, please contact:  
 **Shubham Joshi** (`shubhamj24@iitk.ac.in` / `shubhammaheshjoshi@gmail.com`)
