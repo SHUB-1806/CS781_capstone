@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "parents": [
+    {
+      "phase6_family": "a",
+      "phase6_method": "lorma",
+      "automatic_retrieval_teacher_dispatch": [
+        "a",
+        "partial"
+      ],
+      "separate_export_notebook_required": false,
+      "student_task_weights_never_initialized_from_Phase6": true,
+      "original_frozen_base_recovered_or_safe_KD_fallback": true,
+      "teacher_snapshot_reused_on_resume": true
+    },
+    {
+      "phase6_family": "a",
+      "phase6_method": "lora",
+      "automatic_retrieval_teacher_dispatch": [
+        "a",
+        "partial"
+      ],
+      "separate_export_notebook_required": false,
+      "student_task_weights_never_initialized_from_Phase6": true,
+      "original_frozen_base_recovered_or_safe_KD_fallback": true,
+      "teacher_snapshot_reused_on_resume": true
+    },
+    {
+      "phase6_family": "b",
+      "phase6_method": "prompt",
+      "automatic_retrieval_teacher_dispatch": [
+        "b",
+        "prompt"
+      ],
+      "separate_export_notebook_required": false,
+      "student_task_weights_never_initialized_from_Phase6": true,
+      "original_frozen_base_recovered_or_safe_KD_fallback": true,
+      "teacher_snapshot_reused_on_resume": true
+    },
+    {
+      "phase6_family": "c",
+      "phase6_method": "houlsby",
+      "automatic_retrieval_teacher_dispatch": [
+        "c",
+        "ia3"
+      ],
+      "separate_export_notebook_required": false,
+      "student_task_weights_never_initialized_from_Phase6": true,
+      "original_frozen_base_recovered_or_safe_KD_fallback": true,
+      "teacher_snapshot_reused_on_resume": true
+    },
+    {
+      "phase6_family": "d",
+      "phase6_method": "pfeiffer",
+      "automatic_retrieval_teacher_dispatch": [
+        "d",
+        "prefix"
+      ],
+      "separate_export_notebook_required": false,
+      "student_task_weights_never_initialized_from_Phase6": true,
+      "original_frozen_base_recovered_or_safe_KD_fallback": true,
+      "teacher_snapshot_reused_on_resume": true
+    },
+    {
+      "phase6_family": "b",
+      "phase6_method": "kd",
+      "automatic_retrieval_teacher_dispatch": [
+        "b",
+        "prompt"
+      ],
+      "separate_export_notebook_required": false,
+      "student_task_weights_never_initialized_from_Phase6": true,
+      "original_frozen_base_recovered_or_safe_KD_fallback": true,
+      "teacher_snapshot_reused_on_resume": true
+    }
+  ],
+  "scope": "Actual own tiny P6 state dictionaries and checksum-verified synthetic outputs; teacher GPU training is replaced by an explicit QA callback, not claimed as executed."
+}

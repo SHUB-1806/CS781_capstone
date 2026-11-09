@@ -1,0 +1,1994 @@
+[
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "CS781-CP-Shubham-Joshi-240500-report.pdf",
+    "relative_path": "00_Final_Report_and_Submission_Package/CS781-CP-Shubham-Joshi-240500-report.pdf",
+    "size_bytes": 164756,
+    "size_mb": 0.157,
+    "sha256": "9c6c05adaebd4e0d6f2a491f61c8ad9f255186b8a3768ae4779823dad3676cfb",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "CS781_Report_Draft_LaTeX.zip",
+    "relative_path": "00_Final_Report_and_Submission_Package/CS781_Report_Draft_LaTeX.zip",
+    "size_bytes": 44255,
+    "size_mb": 0.042,
+    "sha256": "0dba8db9a6230ea3f017fc7d0effc9210ab07145a6c4a76aa020802892c44960",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "saved_learning_curves.pdf",
+    "relative_path": "00_Final_Report_and_Submission_Package/figures/saved_learning_curves.pdf",
+    "size_bytes": 36916,
+    "size_mb": 0.035,
+    "sha256": "a3c222557a380a7b4a851e28ea4c06ac2a8231a1687ae9dfc86056a4850674d7",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "generate_final_report.py",
+    "relative_path": "00_Final_Report_and_Submission_Package/generate_final_report.py",
+    "size_bytes": 50295,
+    "size_mb": 0.048,
+    "sha256": "98320a9fa7c85af4db772f6de4e1ff11a16d79b2c11e5811a8f9cff9fb0efd89",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "references.bib",
+    "relative_path": "00_Final_Report_and_Submission_Package/latex_source/references.bib",
+    "size_bytes": 5051,
+    "size_mb": 0.005,
+    "sha256": "9111e757b28cec2c7c184602b04d57abc427b3bc569ff53c852ed97e433bc7cc",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "Report.tex",
+    "relative_path": "00_Final_Report_and_Submission_Package/latex_source/Report.tex",
+    "size_bytes": 38605,
+    "size_mb": 0.037,
+    "sha256": "b100016ff54907d09aa53e369a10adaf669f01a997809676b63f5b260faadac8",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "template_original.tex",
+    "relative_path": "00_Final_Report_and_Submission_Package/latex_source/template_original.tex",
+    "size_bytes": 50276,
+    "size_mb": 0.048,
+    "sha256": "d800e91efc6fb0bd6f0dcc7fab8e1dcc0df7af6ab906123e00a83ef4ad0c8879",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "results_verified.csv",
+    "relative_path": "00_Final_Report_and_Submission_Package/results_manifest/results_verified.csv",
+    "size_bytes": 5103,
+    "size_mb": 0.005,
+    "sha256": "236cca4f8976fa08693396fb5ac3c9a4ccf48cd6737652b07f98e23acdb9446a",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "00_Final_Report_and_Submission_Package",
+    "filename": "results_verified.json",
+    "relative_path": "00_Final_Report_and_Submission_Package/results_manifest/results_verified.json",
+    "size_bytes": 13985,
+    "size_mb": 0.013,
+    "sha256": "456464d44a0013187b62d20c931bf97a5ac0d716a78b1ee0ea9d7b5a2656eab6",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "verification_summary.json",
+    "relative_path": "Phase1_Pretraining/Audit_Metadata/verification_summary.json",
+    "size_bytes": 4370,
+    "size_mb": 0.004,
+    "sha256": "f4aeb7bd904a22eabfbfa3b67f7f4c2c126228277422d4f0882a81762a2a430e",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "data-and-tokenizer.ipynb",
+    "relative_path": "Phase1_Pretraining/Preprocessing/data-and-tokenizer.ipynb",
+    "size_bytes": 116034,
+    "size_mb": 0.111,
+    "sha256": "a88fdd4a0375f4505c594a4659d7301ec50d184f0373b77eee64dea175f119e4",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 59,
+      "code_cells": 36,
+      "with_outputs": 8,
+      "total_output_chars": 7914,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "tokenizer-small-100m.ipynb",
+    "relative_path": "Phase1_Pretraining/Preprocessing/tokenizer-small-100m.ipynb",
+    "size_bytes": 223831,
+    "size_mb": 0.213,
+    "sha256": "574af59a6f6aa146f05e459d45aa92b2adc52c7e46b3aa1b24dbeae423219d43",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 59,
+      "code_cells": 36,
+      "with_outputs": 8,
+      "total_output_chars": 5198,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "tokenizer-smaller-50m.ipynb",
+    "relative_path": "Phase1_Pretraining/Preprocessing/tokenizer-smaller-50m.ipynb",
+    "size_bytes": 223806,
+    "size_mb": 0.213,
+    "sha256": "09e01970179fd1c8b7f3d32fc27f812dd5abecf0a7f248142366f50f28d23fd2",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 59,
+      "code_cells": 36,
+      "with_outputs": 8,
+      "total_output_chars": 5188,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "tokenizer-smallest-25m.ipynb",
+    "relative_path": "Phase1_Pretraining/Preprocessing/tokenizer-smallest-25m.ipynb",
+    "size_bytes": 223792,
+    "size_mb": 0.213,
+    "sha256": "cf5d4993b8148b4c9177e9eef303f4a6ce992c5d5bddbeceff03d128bf8e3dd6",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 59,
+      "code_cells": 36,
+      "with_outputs": 8,
+      "total_output_chars": 5181,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modela-submission.ipynb",
+    "relative_path": "Phase1_Pretraining/Submission_Notebooks/modela-submission.ipynb",
+    "size_bytes": 475730,
+    "size_mb": 0.454,
+    "sha256": "c68830e7bdb0d512a5e8c97e3a696b8ec4c5aad34cb2d595523e7723475bbcb7",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 61,
+      "code_cells": 30,
+      "with_outputs": 7,
+      "total_output_chars": 263854,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modelb-submission.ipynb",
+    "relative_path": "Phase1_Pretraining/Submission_Notebooks/modelb-submission.ipynb",
+    "size_bytes": 375526,
+    "size_mb": 0.358,
+    "sha256": "84391958b8da083e1021dc36c4bf1b7fb055bdbddedf19b4d3b71da5ebafc791",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 61,
+      "code_cells": 30,
+      "with_outputs": 7,
+      "total_output_chars": 238354,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modelc-submission.ipynb",
+    "relative_path": "Phase1_Pretraining/Submission_Notebooks/modelc-submission.ipynb",
+    "size_bytes": 474798,
+    "size_mb": 0.453,
+    "sha256": "136ccd44cf947edf8c7a74a891da4bae317287651f74b6953d312c9aefe4843f",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 61,
+      "code_cells": 30,
+      "with_outputs": 7,
+      "total_output_chars": 262964,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modeld-submission.ipynb",
+    "relative_path": "Phase1_Pretraining/Submission_Notebooks/modeld-submission.ipynb",
+    "size_bytes": 474473,
+    "size_mb": 0.452,
+    "sha256": "ee17a24e07eca2c1f4ff8c159e566c712db6802222126f8c17e83f5f9241b42c",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 61,
+      "code_cells": 30,
+      "with_outputs": 7,
+      "total_output_chars": 262737,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "submission_model_a.zip",
+    "relative_path": "Phase1_Pretraining/Submissions/submission_model_a.zip",
+    "size_bytes": 195734,
+    "size_mb": 0.187,
+    "sha256": "e424e44ffaefb9fe951b07f61d6e7b6082d652f7a0310f98f275a2fa3bed5862",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "submission_model_b.zip",
+    "relative_path": "Phase1_Pretraining/Submissions/submission_model_b.zip",
+    "size_bytes": 61683,
+    "size_mb": 0.059,
+    "sha256": "9c6d0be0814e54a6351df1b28e96322341232733b597cc799c338550abc17d92",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "submission_model_c.zip",
+    "relative_path": "Phase1_Pretraining/Submissions/submission_model_c.zip",
+    "size_bytes": 185397,
+    "size_mb": 0.177,
+    "sha256": "4459f126c0423818ded3b0278465ebebcfafdfb90a1bd765c5f3be68ffacd241",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "submission_model_d.zip",
+    "relative_path": "Phase1_Pretraining/Submissions/submission_model_d.zip",
+    "size_bytes": 153901,
+    "size_mb": 0.147,
+    "sha256": "4a10f1269c32fd6097c5e194e06108a2d0cd9bdb5a0bf3c4c99e320533b8d093",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modela-retrain-epoch12.ipynb",
+    "relative_path": "Phase1_Pretraining/Training_Notebooks/modela-retrain-epoch12.ipynb",
+    "size_bytes": 4419974,
+    "size_mb": 4.215,
+    "sha256": "4787acb0909a45afccaf8b907df28f8954c81d1c96b67457616cdeb7d464fa55",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 214,
+      "code_cells": 92,
+      "with_outputs": 9,
+      "total_output_chars": 3617229,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modela-training-final.ipynb",
+    "relative_path": "Phase1_Pretraining/Training_Notebooks/modela-training-final.ipynb",
+    "size_bytes": 4525524,
+    "size_mb": 4.316,
+    "sha256": "6d3774a9a4fc2b1459d94dc8c18cc065c8e39b4d3258e114d058af87fbc065f6",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 75,
+      "code_cells": 39,
+      "with_outputs": 9,
+      "total_output_chars": 3643602,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modelb-decoder.ipynb",
+    "relative_path": "Phase1_Pretraining/Training_Notebooks/modelb-decoder.ipynb",
+    "size_bytes": 6204406,
+    "size_mb": 5.917,
+    "sha256": "2fb026ba9ca040687696c71e3428d2e4cd77280e632e7d2b1aa47c2d5ddde687",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 74,
+      "code_cells": 38,
+      "with_outputs": 9,
+      "total_output_chars": 5114505,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modelc-gru-hybrid-epoch1-100m.ipynb",
+    "relative_path": "Phase1_Pretraining/Training_Notebooks/modelc-gru-hybrid-epoch1-100m.ipynb",
+    "size_bytes": 1264485,
+    "size_mb": 1.206,
+    "sha256": "e16c2bc2d969003bb9bb2c9bb7fe46d044bf1be8bb58b0855354b5e1815f8402",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 234,
+      "code_cells": 101,
+      "with_outputs": 9,
+      "total_output_chars": 886030,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase1_Pretraining",
+    "filename": "modeld-epoch1-sparse-attention-causal-decoder-25m.ipynb",
+    "relative_path": "Phase1_Pretraining/Training_Notebooks/modeld-epoch1-sparse-attention-causal-decoder-25m.ipynb",
+    "size_bytes": 494675,
+    "size_mb": 0.472,
+    "sha256": "ba4bf5762331f7161ec8ab55a402e344a50d11aa5937524d996e8800b898b1f2",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 230,
+      "code_cells": 99,
+      "with_outputs": 9,
+      "total_output_chars": 224816,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "SUBMISSION_REVIEW.md",
+    "relative_path": "Phase2_LNER/Audit_Metadata/SUBMISSION_REVIEW.md",
+    "size_bytes": 4975,
+    "size_mb": 0.005,
+    "sha256": "3d0ed494f51667419d76546336eb485051fbd88d80783c72496fd7f66a185e52",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "00-export-existing-best.ipynb",
+    "relative_path": "Phase2_LNER/Notebooks/00-export-existing-best.ipynb",
+    "size_bytes": 244814,
+    "size_mb": 0.233,
+    "sha256": "f92e53d32b867ace4dcc14f10f02de751155f188083690c32b0018d67078bb19",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 170,
+      "code_cells": 77,
+      "with_outputs": 7,
+      "total_output_chars": 18781,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "01-a-full-final.ipynb",
+    "relative_path": "Phase2_LNER/Notebooks/01-a-full-final.ipynb",
+    "size_bytes": 288179,
+    "size_mb": 0.275,
+    "sha256": "d1ec2183c75ab399fbc0d4ce0f4a6dbf9826ec03bc61f612e2a5cef2fda0fa63",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 169,
+      "code_cells": 77,
+      "with_outputs": 7,
+      "total_output_chars": 26720,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "02-rebuild-b-lora.ipynb",
+    "relative_path": "Phase2_LNER/Notebooks/02-rebuild-b-lora.ipynb",
+    "size_bytes": 278541,
+    "size_mb": 0.266,
+    "sha256": "7c3a9749eb38c3cab6e620da95560d177b8b441385a90444ffd4e6f9e15576a9",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 180,
+      "code_cells": 82,
+      "with_outputs": 7,
+      "total_output_chars": 31969,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "03-rebuild-c-adapters.ipynb",
+    "relative_path": "Phase2_LNER/Notebooks/03-rebuild-c-adapters.ipynb",
+    "size_bytes": 276284,
+    "size_mb": 0.263,
+    "sha256": "8575ea07ea7893485f2d61ed80c35112d7b4c67818d74883345c91190786d247",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 180,
+      "code_cells": 82,
+      "with_outputs": 7,
+      "total_output_chars": 29854,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "04-rebuild-d-partial.ipynb",
+    "relative_path": "Phase2_LNER/Notebooks/04-rebuild-d-partial.ipynb",
+    "size_bytes": 275311,
+    "size_mb": 0.263,
+    "sha256": "47f93f15ee7a13bf6c43883228028d01d68dcfae328408c9180eb7d56fd3e64c",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 180,
+      "code_cells": 82,
+      "with_outputs": 7,
+      "total_output_chars": 28949,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "05-rebuild-a-lorma.ipynb",
+    "relative_path": "Phase2_LNER/Notebooks/05-rebuild-a-lorma.ipynb",
+    "size_bytes": 280858,
+    "size_mb": 0.268,
+    "sha256": "1d34f95347148a2b3c806aa8db08ec8cf70b0c835959b13f8409996d091fc24f",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 180,
+      "code_cells": 82,
+      "with_outputs": 7,
+      "total_output_chars": 34005,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "06-b-distillation-final-cells.ipynb",
+    "relative_path": "Phase2_LNER/Notebooks/06-b-distillation-final-cells.ipynb",
+    "size_bytes": 302649,
+    "size_mb": 0.289,
+    "sha256": "72bc14eabcbf0a624e7bb756df58257b7b7f9c30cb2a7ff1134849e03c05973a",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 169,
+      "code_cells": 77,
+      "with_outputs": 7,
+      "total_output_chars": 38992,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "submission_Final_A_full_calibrated.zip",
+    "relative_path": "Phase2_LNER/Submissions/submission_Final_A_full_calibrated.zip",
+    "size_bytes": 30003,
+    "size_mb": 0.029,
+    "sha256": "7792fe16510df3186ea78dc27961469f59b034ade182517f2b90c0712c189ba4",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "submission_Final_B_distillation_calibrated.zip",
+    "relative_path": "Phase2_LNER/Submissions/submission_Final_B_distillation_calibrated.zip",
+    "size_bytes": 20174,
+    "size_mb": 0.019,
+    "sha256": "b6ced639475c2b17e5906b1e1b2ab80a2605d5e59f0c5af038b0c884e5f103c8",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "submission_P2_Validated_Ensemble_v1.zip",
+    "relative_path": "Phase2_LNER/Submissions/submission_P2_Validated_Ensemble_v1.zip",
+    "size_bytes": 32063,
+    "size_mb": 0.031,
+    "sha256": "2f5338ed70a53723a817717060ca34c6a3581b92c65aa60a381312c0e73b74c7",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "submission_Rebuild_A_lorma_calibrated.zip",
+    "relative_path": "Phase2_LNER/Submissions/submission_Rebuild_A_lorma_calibrated.zip",
+    "size_bytes": 32063,
+    "size_mb": 0.031,
+    "sha256": "358998462f6429211f756c37e558c08bddd656ee082291758faee587d3793f96",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "submission_Rebuild_B_lora_calibrated.zip",
+    "relative_path": "Phase2_LNER/Submissions/submission_Rebuild_B_lora_calibrated.zip",
+    "size_bytes": 34418,
+    "size_mb": 0.033,
+    "sha256": "f85846a0988c6606c55b557cf681bc59390c26d7e15d427bb5fde436d74733bc",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "submission_Rebuild_C_adapters_calibrated.zip",
+    "relative_path": "Phase2_LNER/Submissions/submission_Rebuild_C_adapters_calibrated.zip",
+    "size_bytes": 32797,
+    "size_mb": 0.031,
+    "sha256": "bda60315976e88e9a5857686151bb814a29e65f1e3350795ad19a7b776d2135a",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase2_LNER",
+    "filename": "submission_Rebuild_D_partial_calibrated.zip",
+    "relative_path": "Phase2_LNER/Submissions/submission_Rebuild_D_partial_calibrated.zip",
+    "size_bytes": 29353,
+    "size_mb": 0.028,
+    "sha256": "5c1f814ae2c487cbe6b1553ca3e618772e9bbcfc902d9e2acfc72b5cefaea333",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "01-a-lorma.ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/01_A_LoRMA/01-a-lorma.ipynb",
+    "size_bytes": 211895,
+    "size_mb": 0.202,
+    "sha256": "ed039cd91a2a2eb82e66e71495a8ea56738537b41e0825acab2d97d2321e38fd",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 133,
+      "code_cells": 60,
+      "with_outputs": 5,
+      "total_output_chars": 11137,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/01_A_LoRMA/observations.zip",
+    "size_bytes": 52134,
+    "size_mb": 0.05,
+    "sha256": "c5650ec461153190b02c6f78bc991cbed7b85916a69919e686bef85a49dd8481",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "submission_P3_01_A_LoRMA.zip",
+    "relative_path": "Phase3_RhetoricalRoles/01_A_LoRMA/submission_P3_01_A_LoRMA.zip",
+    "size_bytes": 1794,
+    "size_mb": 0.002,
+    "sha256": "f8f161aa8dc24eb0c06272b61c1d920a4503cb547da4f8b0316f833648d7bb1f",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "02-a-rslora.ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/02_A_rsLoRA/02-a-rslora.ipynb",
+    "size_bytes": 221401,
+    "size_mb": 0.211,
+    "sha256": "3ef17c7f35ca6fa27756a3ad54dea6ae6d98ff5d9fe761efaf5b449092ce50bd",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 139,
+      "code_cells": 63,
+      "with_outputs": 5,
+      "total_output_chars": 9866,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/02_A_rsLoRA/observations.zip",
+    "size_bytes": 47872,
+    "size_mb": 0.046,
+    "sha256": "6be8f6f2a880436ab6f8a74c6df9ef81497925b2001df778c4ec796bcbacc0f3",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "submission_P3_02_A_rsLoRA.zip",
+    "relative_path": "Phase3_RhetoricalRoles/02_A_rsLoRA/submission_P3_02_A_rsLoRA.zip",
+    "size_bytes": 1805,
+    "size_mb": 0.002,
+    "sha256": "ee19bbb87ca39163cba2987c142e8266e7daa09608c30ab5ba2a9e8c9a7507ad",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "03-b-lora.ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/03_B_LoRA/03-b-lora.ipynb",
+    "size_bytes": 225275,
+    "size_mb": 0.215,
+    "sha256": "85afc59992dfc7dc2dacdc438d78cb019865dc6fb6cd29529ea3940a6372e50b",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 139,
+      "code_cells": 63,
+      "with_outputs": 5,
+      "total_output_chars": 13669,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/03_B_LoRA/observations.zip",
+    "size_bytes": 53620,
+    "size_mb": 0.051,
+    "sha256": "90955472746df0767b2310277cd2eca990eac9a7ed0620538660c8932c6bd002",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "submission_P3_03_B_LoRA.zip",
+    "relative_path": "Phase3_RhetoricalRoles/03_B_LoRA/submission_P3_03_B_LoRA.zip",
+    "size_bytes": 1787,
+    "size_mb": 0.002,
+    "sha256": "d51aea6ccf5f6c96fea00f20a94ab872c8afd120f33a16c9237dd98f3a05aaf3",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "04-c-ia3.ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/04_C_IA3/04-c-ia3.ipynb",
+    "size_bytes": 220430,
+    "size_mb": 0.21,
+    "sha256": "92b912db3cc1d23e1df8a89de2ba0868e7bc0307e767254faa251fe88c8d6247",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 139,
+      "code_cells": 63,
+      "with_outputs": 5,
+      "total_output_chars": 9312,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/04_C_IA3/observations.zip",
+    "size_bytes": 54767,
+    "size_mb": 0.052,
+    "sha256": "de9c7bbb85d1172b5b12f8ba5f6e09ce5bcfd91fe08daadf9258dfd521e2af32",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "submission_P3_04_C_IA3.zip",
+    "relative_path": "Phase3_RhetoricalRoles/04_C_IA3/submission_P3_04_C_IA3.zip",
+    "size_bytes": 1722,
+    "size_mb": 0.002,
+    "sha256": "e3a7b2bad5cf9ad1e8cb49247ed1e08d6b6b6ea6f6a29b61faa3e56ef9077255",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "05-d-prompt-tuning.ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/05_D_Prompt_Tuning/05-d-prompt-tuning.ipynb",
+    "size_bytes": 218393,
+    "size_mb": 0.208,
+    "sha256": "64e1a3c8ca9d859a8165f0372f99f852a5333af110e8aed27486714449c378c7",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 139,
+      "code_cells": 63,
+      "with_outputs": 5,
+      "total_output_chars": 7510,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/05_D_Prompt_Tuning/observations.zip",
+    "size_bytes": 55264,
+    "size_mb": 0.053,
+    "sha256": "da6b67ea96fe0bd871899c8ed2d97246525cb710d4e38f9be2baba80046416fd",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "submission_P3_05_D_Prompt_Tuning.zip",
+    "relative_path": "Phase3_RhetoricalRoles/05_D_Prompt_Tuning/submission_P3_05_D_Prompt_Tuning.zip",
+    "size_bytes": 1818,
+    "size_mb": 0.002,
+    "sha256": "94cd3b886072e4b1776abf7d33fb92c48a942baad92e0b27d84e49c948563740",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "06-b-distillation (3).ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/06_B_Distillation/06-b-distillation (3).ipynb",
+    "size_bytes": 192307,
+    "size_mb": 0.183,
+    "sha256": "4a86b8239745d21db68920deeb996800d1b681e250e091aa58645cd7279b38a9",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 137,
+      "code_cells": 62,
+      "with_outputs": 6,
+      "total_output_chars": 11717,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/06_B_Distillation/observations.zip",
+    "size_bytes": 52833,
+    "size_mb": 0.05,
+    "sha256": "abba481ab0d39777a235ad0298faf4a1eebc524cbe7dc07f43c488fc047af451",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "submission_P3_06_B_Distillation_A01_Teacher.zip",
+    "relative_path": "Phase3_RhetoricalRoles/06_B_Distillation/submission_P3_06_B_Distillation_A01_Teacher.zip",
+    "size_bytes": 1646,
+    "size_mb": 0.002,
+    "sha256": "9746a387e33bf305282f6ac70068fbf3ef0f57b31576622297033adbdab84441",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "07-a-sentence-only-ablation.ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/07_A_Sentence_Only_Ablation/07-a-sentence-only-ablation.ipynb",
+    "size_bytes": 227458,
+    "size_mb": 0.217,
+    "sha256": "d6aef6182e386556c1f4e875aaf50d038711eb89a752d98099557ea5ca83d623",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 140,
+      "code_cells": 63,
+      "with_outputs": 5,
+      "total_output_chars": 14708,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/07_A_Sentence_Only_Ablation/observations.zip",
+    "size_bytes": 52665,
+    "size_mb": 0.05,
+    "sha256": "03dbb76ee461f330548f6e1cbb98d27ff0d544e2a864b5679092795273661fb3",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "submission_P3_07_A_Sentence_Only_Ablation.zip",
+    "relative_path": "Phase3_RhetoricalRoles/07_A_Sentence_Only_Ablation/submission_P3_07_A_Sentence_Only_Ablation.zip",
+    "size_bytes": 2422,
+    "size_mb": 0.002,
+    "sha256": "c383d2adf31fbca05441106db7447166e5ba24669cd3b0b2974f2f57c42e790e",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "08-refit-a01-original-runtime.ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/08_Refit_A01_Original_Runtime/08-refit-a01-original-runtime.ipynb",
+    "size_bytes": 183252,
+    "size_mb": 0.175,
+    "sha256": "7c609700cdf99e6676528c4a42b17b840d3aa21d417d3a87691a8c854cd92709",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 135,
+      "code_cells": 61,
+      "with_outputs": 6,
+      "total_output_chars": 6102,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/08_Refit_A01_Original_Runtime/observations.zip",
+    "size_bytes": 31297,
+    "size_mb": 0.03,
+    "sha256": "9f17b0753fe4dc9b497f748205cd3f45e2b18d2ead9bc3f4f89f073647327df3",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "10-a-lorma-dropout35.ipynb",
+    "relative_path": "Phase3_RhetoricalRoles/10_A_LoRMA_Dropout35/10-a-lorma-dropout35.ipynb",
+    "size_bytes": 230420,
+    "size_mb": 0.22,
+    "sha256": "7db7a92b39214c90cddf222941754cd48d24f0b16ab0eefd8933a7e8cc1e75e7",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 142,
+      "code_cells": 64,
+      "with_outputs": 6,
+      "total_output_chars": 14826,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "observations.zip",
+    "relative_path": "Phase3_RhetoricalRoles/10_A_LoRMA_Dropout35/observations.zip",
+    "size_bytes": 51093,
+    "size_mb": 0.049,
+    "sha256": "284d8ac67c614b59c9e93617664f449ea47e233be43c2de023c04919137b0ef3",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase3_RhetoricalRoles",
+    "filename": "submission_P3_A_LoRMA_Dropout35.zip",
+    "relative_path": "Phase3_RhetoricalRoles/10_A_LoRMA_Dropout35/submission_P3_A_LoRMA_Dropout35.zip",
+    "size_bytes": 1797,
+    "size_mb": 0.002,
+    "sha256": "1ed453cad41f333009691f740fdb9f6f9b96698cae89349c9498ea4505cf6409",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "01-a-full-fast.ipynb",
+    "relative_path": "Phase4_CourtJudgmentPrediction/01_A_Full_FAST/01-a-full-fast.ipynb",
+    "size_bytes": 271765,
+    "size_mb": 0.259,
+    "sha256": "b35579549893e1d1471dfa330c11c93f2f148a7b15ae2ef2f407ae29c6d5a38d",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 170,
+      "code_cells": 75,
+      "with_outputs": 4,
+      "total_output_chars": 13543,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "observations.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/01_A_Full_FAST/observations.zip",
+    "size_bytes": 593951,
+    "size_mb": 0.566,
+    "sha256": "5cb9d0c198c96d9afb28b6d1c129cd830a17f9163e4af19333c75471c26593a9",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "submission_P4_01_A_Full_FAST_V2.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/01_A_Full_FAST/submission_P4_01_A_Full_FAST_V2.zip",
+    "size_bytes": 6600,
+    "size_mb": 0.006,
+    "sha256": "245d0978bf970afea33c310f3e08c17219f2345b9076fc9c892b04a3a6fc9f5e",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "02-a-lorma-fast.ipynb",
+    "relative_path": "Phase4_CourtJudgmentPrediction/02_A_LoRMA_FAST/02-a-lorma-fast.ipynb",
+    "size_bytes": 269409,
+    "size_mb": 0.257,
+    "sha256": "0d8a4b893a89ebd4511e944c3004dc5a6caabff214e9e68c9bbc57f8a2735f16",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 170,
+      "code_cells": 75,
+      "with_outputs": 4,
+      "total_output_chars": 11282,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "observations.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/02_A_LoRMA_FAST/observations.zip",
+    "size_bytes": 593690,
+    "size_mb": 0.566,
+    "sha256": "d77e0c6876b8fc69071ddd33e09f0eae1a44143ded2218f5396ab65656d93054",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "submission_P4_02_A_LoRMA_FAST_V2.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/02_A_LoRMA_FAST/submission_P4_02_A_LoRMA_FAST_V2.zip",
+    "size_bytes": 6613,
+    "size_mb": 0.006,
+    "sha256": "bc3525eff1a05217e5d58f839d0e10987669567fd2a3a5fe59ddb3458fbd2ebe",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "03-b-bitfit.ipynb",
+    "relative_path": "Phase4_CourtJudgmentPrediction/03_B_BitFit/03-b-bitfit.ipynb",
+    "size_bytes": 236803,
+    "size_mb": 0.226,
+    "sha256": "46d21acee09053c5a1d5c46a010f81ec6a886b45ceb2831e53e175f9b51a5307",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 151,
+      "code_cells": 67,
+      "with_outputs": 4,
+      "total_output_chars": 11899,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "observations.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/03_B_BitFit/observations.zip",
+    "size_bytes": 488445,
+    "size_mb": 0.466,
+    "sha256": "4d003b90df5cc1b61bed7fee63b854a26c475251e08bcaa36e7adb6d6ca07c1d",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "submission_P4_03_B_BitFit.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/03_B_BitFit/submission_P4_03_B_BitFit.zip",
+    "size_bytes": 6586,
+    "size_mb": 0.006,
+    "sha256": "ac19f037d1880d3f656e55894171e11501c1ece0a996fffbca8cc04cf3e5294b",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "04-c-adapters-fast.ipynb",
+    "relative_path": "Phase4_CourtJudgmentPrediction/04_C_Adapters_FAST/04-c-adapters-fast.ipynb",
+    "size_bytes": 266439,
+    "size_mb": 0.254,
+    "sha256": "e0e9e4870f24c657814665adbb7fdda7fbe4c91854557498166777d6a73591fd",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 170,
+      "code_cells": 75,
+      "with_outputs": 4,
+      "total_output_chars": 8666,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "observations.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/04_C_Adapters_FAST/observations.zip",
+    "size_bytes": 573958,
+    "size_mb": 0.547,
+    "sha256": "aa86f7cd24fb8d3aab8e686a55be63f5bcacab967e35ebb0c0abc3f9727a4e8f",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "submission_P4_04_C_Adapters_FAST_V2.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/04_C_Adapters_FAST/submission_P4_04_C_Adapters_FAST_V2.zip",
+    "size_bytes": 6619,
+    "size_mb": 0.006,
+    "sha256": "1adcbc3fb6b79b5866b1a16cae0be3a8e688f7eaa8837fc637a25f316c683d52",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "05-d-partial-fast.ipynb",
+    "relative_path": "Phase4_CourtJudgmentPrediction/05_D_Partial_FAST/05-d-partial-fast.ipynb",
+    "size_bytes": 259684,
+    "size_mb": 0.248,
+    "sha256": "e419bae9ce42cbf0397fdc191df12ee72edfc64dfd7fc70d56daaf47cd3d6aac",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 170,
+      "code_cells": 75,
+      "with_outputs": 4,
+      "total_output_chars": 2573,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "05_D_Partial.ipynb",
+    "relative_path": "Phase4_CourtJudgmentPrediction/05_D_Partial_FAST/05_D_Partial.ipynb",
+    "size_bytes": 205074,
+    "size_mb": 0.196,
+    "sha256": "2d50b77822f0bcd905bd7f26fb030c61e7fb6d387b879cb7c1736d2ca30e4fe3",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 151,
+      "code_cells": 67,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "05_D_Partial_FAST.ipynb",
+    "relative_path": "Phase4_CourtJudgmentPrediction/05_D_Partial_FAST/05_D_Partial_FAST.ipynb",
+    "size_bytes": 236438,
+    "size_mb": 0.225,
+    "sha256": "44ac03b17281b791e820280243b0a882d6832904c82bd7f65087653a9f5d0458",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 170,
+      "code_cells": 75,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "06-b-distillation-fast.ipynb",
+    "relative_path": "Phase4_CourtJudgmentPrediction/06_B_Distillation_FAST/06-b-distillation-fast.ipynb",
+    "size_bytes": 275237,
+    "size_mb": 0.262,
+    "sha256": "1bc36c4a9a1f54290d0e1705ac6775d76123fa333b61c45f442b27602e8c88aa",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 170,
+      "code_cells": 75,
+      "with_outputs": 4,
+      "total_output_chars": 16462,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "observations.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/06_B_Distillation_FAST/observations.zip",
+    "size_bytes": 493816,
+    "size_mb": 0.471,
+    "sha256": "5fd36dee752e1da19332788d5fb6031788b3b1ad6dd9ea28beff7acb181f760a",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase4_CourtJudgmentPrediction",
+    "filename": "submission_P4_06_B_Distillation_FAST_V2.zip",
+    "relative_path": "Phase4_CourtJudgmentPrediction/06_B_Distillation_FAST/submission_P4_06_B_Distillation_FAST_V2.zip",
+    "size_bytes": 6601,
+    "size_mb": 0.006,
+    "sha256": "d4cf619bb85f7c239fd98bc2b0e207f5d290fe8634efc167fe319b822ba6e2dc",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "observations.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/01_A_Full/observations.zip",
+    "size_bytes": 1449451,
+    "size_mb": 1.382,
+    "sha256": "43beeb1c8e39caef91be5d47ec41a49c7a8771cc3d358b3a0fcde0f52e5263e0",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "p5-01-a-full-better (3).ipynb",
+    "relative_path": "Phase5_LegalStatuteIdentification/01_A_Full/p5-01-a-full-better (3).ipynb",
+    "size_bytes": 315379,
+    "size_mb": 0.301,
+    "sha256": "eb405eb59ca304c66313abf65ce543388b1eebdee039173e042feab6bbce11dc",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 197,
+      "code_cells": 88,
+      "with_outputs": 7,
+      "total_output_chars": 22970,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "submission_P5U_01_A_Full.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/01_A_Full/submission_P5U_01_A_Full.zip",
+    "size_bytes": 135202,
+    "size_mb": 0.129,
+    "sha256": "834e8c7073943e43ea8e1670a8f985a9e2ced96bd0356da5ad255fd2a559dbec",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "observations.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/02_A_LoRMA/observations.zip",
+    "size_bytes": 1258189,
+    "size_mb": 1.2,
+    "sha256": "babea056c6bf5a443cb73ba64fb5fe658d8d6c855d7c8f19ce9d0d273ab3b8dc",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "p5u-02-a-lorma.ipynb",
+    "relative_path": "Phase5_LegalStatuteIdentification/02_A_LoRMA/p5u-02-a-lorma.ipynb",
+    "size_bytes": 313142,
+    "size_mb": 0.299,
+    "sha256": "415f2b1215782665d6290e7a299340901f6893e9e2637a55bec8b9dc98bd0bac",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 197,
+      "code_cells": 88,
+      "with_outputs": 7,
+      "total_output_chars": 20446,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "submission_P5U_02_A_LoRMA.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/02_A_LoRMA/submission_P5U_02_A_LoRMA.zip",
+    "size_bytes": 133951,
+    "size_mb": 0.128,
+    "sha256": "a5b784fed07bfe2fcb86b475c64d850dc8ca2332e52dac73489cdf64c848e505",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "observations.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/03_B_Prompt/observations.zip",
+    "size_bytes": 1276491,
+    "size_mb": 1.217,
+    "sha256": "dd1dd43f026db46b2963f565a21f5e556946eca18bf6576ae3152f201aac6c5e",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "p5-03-b-prompt.ipynb",
+    "relative_path": "Phase5_LegalStatuteIdentification/03_B_Prompt/p5-03-b-prompt.ipynb",
+    "size_bytes": 308558,
+    "size_mb": 0.294,
+    "sha256": "5701f53bd09f8d3e170eacaeec5b66894241d30bdd3b316266524882a59915df",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 197,
+      "code_cells": 88,
+      "with_outputs": 7,
+      "total_output_chars": 16331,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "submission_P5U_03_B_Prompt.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/03_B_Prompt/submission_P5U_03_B_Prompt.zip",
+    "size_bytes": 146935,
+    "size_mb": 0.14,
+    "sha256": "d79bcadedf48c6e66e842fe87856c218dda806647162c10578b690bf20609aca",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "observations.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/04_C_Adapters/observations.zip",
+    "size_bytes": 1254451,
+    "size_mb": 1.196,
+    "sha256": "d2082784648443e9c7129d550136134e61f126643c94e8065bd1147d2e813386",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "p5-04-c-adapters.ipynb",
+    "relative_path": "Phase5_LegalStatuteIdentification/04_C_Adapters/p5-04-c-adapters.ipynb",
+    "size_bytes": 310007,
+    "size_mb": 0.296,
+    "sha256": "62b6d8326a71bc2dcf1544911759b46e30034763d281328f3c4dd443a8e8c037",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 197,
+      "code_cells": 88,
+      "with_outputs": 7,
+      "total_output_chars": 17619,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "submission_P5U_04_C_Adapters.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/04_C_Adapters/submission_P5U_04_C_Adapters.zip",
+    "size_bytes": 136218,
+    "size_mb": 0.13,
+    "sha256": "6ab5ebb864ee7756387460879ac70ce75a4c4b01b1c6735fd252853bec0e8185",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "observations.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/05_D_Partial/observations.zip",
+    "size_bytes": 1277108,
+    "size_mb": 1.218,
+    "sha256": "81ce00c7cfd6b0fad7b2f0d46c7cda5312141986eab6580a8f635c9d8c8170fc",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "p5-05-d-partial.ipynb",
+    "relative_path": "Phase5_LegalStatuteIdentification/05_D_Partial/p5-05-d-partial.ipynb",
+    "size_bytes": 310397,
+    "size_mb": 0.296,
+    "sha256": "5fe6dc5d97b98b5d73f7756336766aa8bf7c797e460b08947047e8837ff975ca",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 197,
+      "code_cells": 88,
+      "with_outputs": 7,
+      "total_output_chars": 18035,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "submission_P5U_05_D_Partial.zip",
+    "relative_path": "Phase5_LegalStatuteIdentification/05_D_Partial/submission_P5U_05_D_Partial.zip",
+    "size_bytes": 145760,
+    "size_mb": 0.139,
+    "sha256": "afe78e598b1bad7022c130eac8d0dc1ba4eed2d4d64a2eb3d6f128b0afacced0",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "p5-06-b-distillation.ipynb",
+    "relative_path": "Phase5_LegalStatuteIdentification/06_B_Distillation/p5-06-b-distillation.ipynb",
+    "size_bytes": 219674,
+    "size_mb": 0.209,
+    "sha256": "24da5f636acd312520593c28a8c01d3226dc982cd1a36f90230a33faff51e398",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 165,
+      "code_cells": 73,
+      "with_outputs": 3,
+      "total_output_chars": 2847,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "P5_06_B_Distillation_TEACHER_FIXED.ipynb",
+    "relative_path": "Phase5_LegalStatuteIdentification/06_B_Distillation/P5_06_B_Distillation_TEACHER_FIXED.ipynb",
+    "size_bytes": 260935,
+    "size_mb": 0.249,
+    "sha256": "16221cdc8acf35d9210018568b3db44ba5568d844d335529b1d2b75eaed72539",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 188,
+      "code_cells": 88,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase5_LegalStatuteIdentification",
+    "filename": "P5U_06_B_Distillation_FIXED_10h.ipynb",
+    "relative_path": "Phase5_LegalStatuteIdentification/06_B_Distillation/P5U_06_B_Distillation_FIXED_10h.ipynb",
+    "size_bytes": 265968,
+    "size_mb": 0.254,
+    "sha256": "51d2d6c12bf33809b443deafba60477d05f8482fe0a563da4c8aa6b222c40d5b",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 197,
+      "code_cells": 88,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "observations.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/01_A_LoRMA/observations.zip",
+    "size_bytes": 1253056,
+    "size_mb": 1.195,
+    "sha256": "9edcd869e5095d7736504aa7a41f782d4b2957cdb44e6d0603cb61b84c863ece",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "p6-01-a-lorma.ipynb",
+    "relative_path": "Phase6_AbstractiveSummarization/01_A_LoRMA/p6-01-a-lorma.ipynb",
+    "size_bytes": 249652,
+    "size_mb": 0.238,
+    "sha256": "f54925fe69e588e2039e0003c53073ae079b208c4a4afba80f2c4a5645be0b78",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 121,
+      "code_cells": 89,
+      "with_outputs": 6,
+      "total_output_chars": 9925,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "submission_P6_01_A_LoRMA.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/01_A_LoRMA/submission_P6_01_A_LoRMA.zip",
+    "size_bytes": 60247,
+    "size_mb": 0.057,
+    "sha256": "e9a2db39e346bc9776ed7ca83a71039ea94cbed9093d468735dfadd0818aa65b",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "observations.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/02_A_LoRA/observations.zip",
+    "size_bytes": 1244130,
+    "size_mb": 1.186,
+    "sha256": "4abb608eb795bdfe353981879b5ac3b67edfc6bf0c9f03d0fb5dbf44cfaab7f7",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "p6-02-a-lora.ipynb",
+    "relative_path": "Phase6_AbstractiveSummarization/02_A_LoRA/p6-02-a-lora.ipynb",
+    "size_bytes": 249696,
+    "size_mb": 0.238,
+    "sha256": "0c254b9a5fb33027eceeff4e8d26defbe802718c71ff0f77a57500838dda52dc",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 121,
+      "code_cells": 89,
+      "with_outputs": 6,
+      "total_output_chars": 9961,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "submission_P6_02_A_LoRA.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/02_A_LoRA/submission_P6_02_A_LoRA.zip",
+    "size_bytes": 57923,
+    "size_mb": 0.055,
+    "sha256": "fe4791b827a16e5881528f8ff2ee3681f859cabb0672f2df3e900a3fa036e2c5",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "observations.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/03_B_Prompt_Tuning/observations.zip",
+    "size_bytes": 1209946,
+    "size_mb": 1.154,
+    "sha256": "45a229b7f618c25b1c1d02c7fbb2852175a422851b50aecb8856250e670e02b2",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "p6-03-b-prompt-tuning.ipynb",
+    "relative_path": "Phase6_AbstractiveSummarization/03_B_Prompt_Tuning/p6-03-b-prompt-tuning.ipynb",
+    "size_bytes": 246129,
+    "size_mb": 0.235,
+    "sha256": "63bf503cef901787b550265d85d049f3c313e006251f52c7551297c9d0b1d8a0",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 121,
+      "code_cells": 89,
+      "with_outputs": 6,
+      "total_output_chars": 6800,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "submission_P6_03_B_Prompt_Tuning.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/03_B_Prompt_Tuning/submission_P6_03_B_Prompt_Tuning.zip",
+    "size_bytes": 55729,
+    "size_mb": 0.053,
+    "sha256": "41a8a211438a7b4997636e3817a6e228361ecee846e0d6f5dca54e5ff7693f04",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "observations.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/04_C_Houlsby_Adapters/observations.zip",
+    "size_bytes": 1080758,
+    "size_mb": 1.031,
+    "sha256": "a6cfa6b4374bdd2034870e84e3fad571f1df7757ccaab2d6d9a22f56214bb9f0",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "p6-04-c-houlsby-adapters.ipynb",
+    "relative_path": "Phase6_AbstractiveSummarization/04_C_Houlsby_Adapters/p6-04-c-houlsby-adapters.ipynb",
+    "size_bytes": 291895,
+    "size_mb": 0.278,
+    "sha256": "4929b6718c1c11b1221fa97e7192179f754848299af87c9b17d2bcc603e03261",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 144,
+      "code_cells": 105,
+      "with_outputs": 7,
+      "total_output_chars": 8397,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "submission_P6_04_C_Houlsby_Adapters.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/04_C_Houlsby_Adapters/submission_P6_04_C_Houlsby_Adapters.zip",
+    "size_bytes": 40877,
+    "size_mb": 0.039,
+    "sha256": "8ee395fb7ead339536afb0cee6ac7f1603c7b268fa0db3c2fb3b5f55bb4c3c31",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "observations.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/05_D_Pfeiffer_Adapters/observations.zip",
+    "size_bytes": 1025874,
+    "size_mb": 0.978,
+    "sha256": "23f4736e602b596a0dc37000d79a8edc46db1884b2a79d9d0d42905658e5d2bf",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "p6-05-d-pfeiffer-adapters.ipynb",
+    "relative_path": "Phase6_AbstractiveSummarization/05_D_Pfeiffer_Adapters/p6-05-d-pfeiffer-adapters.ipynb",
+    "size_bytes": 292240,
+    "size_mb": 0.279,
+    "sha256": "8e19d19c05ca793dfec0191b89ac102748de16c69625eb55a2cdf36c060c6a9e",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 144,
+      "code_cells": 105,
+      "with_outputs": 7,
+      "total_output_chars": 8667,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "submission_P6_05_D_Pfeiffer_Adapters.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/05_D_Pfeiffer_Adapters/submission_P6_05_D_Pfeiffer_Adapters.zip",
+    "size_bytes": 36363,
+    "size_mb": 0.035,
+    "sha256": "db232af64b1d2300f6cb5d4df37501e1ec6c788875676f74d8523882f5bb88d4",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "observations.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/07_B_Sequence_Distillation/observations.zip",
+    "size_bytes": 2543127,
+    "size_mb": 2.425,
+    "sha256": "f49456e30329ef7bbce0284ec69cd1b216aee25d9bf49b41ec59e87f7eb30248",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "p6-optimized-training-notebooks (1).ipynb",
+    "relative_path": "Phase6_AbstractiveSummarization/07_B_Sequence_Distillation/p6-optimized-training-notebooks (1).ipynb",
+    "size_bytes": 413069,
+    "size_mb": 0.394,
+    "sha256": "0602fd2ca785c5750ce13792247d66ced8f9f4916527b06a6dcaa2cff009e1d0",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 206,
+      "code_cells": 152,
+      "with_outputs": 9,
+      "total_output_chars": 14476,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "P6_07_B_Distillation_T4x2_FAST.ipynb",
+    "relative_path": "Phase6_AbstractiveSummarization/07_B_Sequence_Distillation/P6_07_B_Distillation_T4x2_FAST.ipynb",
+    "size_bytes": 402063,
+    "size_mb": 0.383,
+    "sha256": "5fde75ee9a581c7474df793adf3d01b52318a8912318aa7d6229efe6fda5d5d9",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 206,
+      "code_cells": 152,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "P6_07_B_Sequence_Distillation.ipynb",
+    "relative_path": "Phase6_AbstractiveSummarization/07_B_Sequence_Distillation/P6_07_B_Sequence_Distillation.ipynb",
+    "size_bytes": 262307,
+    "size_mb": 0.25,
+    "sha256": "fe9efe2beca23776db8edc3ef6865e9a5bb0a0c940a1327679f8391212e2c814",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 145,
+      "code_cells": 105,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase6_AbstractiveSummarization",
+    "filename": "submission_P6_07_B_Sequence_Distillation.zip",
+    "relative_path": "Phase6_AbstractiveSummarization/07_B_Sequence_Distillation/submission_P6_07_B_Sequence_Distillation.zip",
+    "size_bytes": 42442,
+    "size_mb": 0.04,
+    "sha256": "afbc25f49aff1b875bb6da66c184e0b39e74be56aa06eee2e09ba6788c874761",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_01_A_LoRMA/observations.zip",
+    "size_bytes": 1841603,
+    "size_mb": 1.756,
+    "sha256": "0fac95690f7ac2f701a97239bfdb4b34c89cb2b1ba7d405c401e2ff4a6f70645",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7-01-a-lorma (1).ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_01_A_LoRMA/p7-01-a-lorma (1).ipynb",
+    "size_bytes": 379221,
+    "size_mb": 0.362,
+    "sha256": "d5accf1241594629e808658e68aa52ba0f3e30d4c3997ba187a5db23b74af50e",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 174,
+      "code_cells": 132,
+      "with_outputs": 8,
+      "total_output_chars": 21110,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7_01_A_LoRMA.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_01_A_LoRMA/submission_P7_01_A_LoRMA.zip",
+    "size_bytes": 7301,
+    "size_mb": 0.007,
+    "sha256": "7906b69faecf99cc0fde4b40eba2d634797d45ca0362920e74b333b32908a5af",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_02_A_Partial/observations.zip",
+    "size_bytes": 1842272,
+    "size_mb": 1.757,
+    "sha256": "1dbd7beff843d039ac5a9200aa7291d779cfcdc2433fd44341db3e5115975017",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7-02-a-partial.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_02_A_Partial/p7-02-a-partial.ipynb",
+    "size_bytes": 382460,
+    "size_mb": 0.365,
+    "sha256": "088016001040f3516922e557c8f057988be9e0a6a8f531c969ada124ae1363d5",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 174,
+      "code_cells": 132,
+      "with_outputs": 8,
+      "total_output_chars": 23798,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7_02_A_Partial.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_02_A_Partial/submission_P7_02_A_Partial.zip",
+    "size_bytes": 7327,
+    "size_mb": 0.007,
+    "sha256": "342e28d2783ac5151d60dab1bb2d35657cbae67c5e56d29ffb0d1ffc1142dd63",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_03_B_Prompt/observations.zip",
+    "size_bytes": 1842854,
+    "size_mb": 1.757,
+    "sha256": "31a19959931868c565f8bb0f1ab9edeb0ad36dc49a3e6c67d7894badf022b678",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7-03-b-prompt.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_03_B_Prompt/p7-03-b-prompt.ipynb",
+    "size_bytes": 345943,
+    "size_mb": 0.33,
+    "sha256": "b5b82425977424a7c035779382aad094b6b088684d2832ef5caed424bf1398d4",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 174,
+      "code_cells": 132,
+      "with_outputs": 8,
+      "total_output_chars": 23765,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7_03_B_Prompt.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_03_B_Prompt/submission_P7_03_B_Prompt.zip",
+    "size_bytes": 7349,
+    "size_mb": 0.007,
+    "sha256": "f55ca0b694e15f136fb41eafc2f5472d7a211a63cd4ca64d88be13b774d62677",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_04_C_IA3/observations.zip",
+    "size_bytes": 1835984,
+    "size_mb": 1.751,
+    "sha256": "44755bf4ad8adbb1bd80390d9a4d90a9499e44749346e82dcd5b4953b7cc9ab0",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7-04-c-ia3.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_04_C_IA3/p7-04-c-ia3.ipynb",
+    "size_bytes": 380922,
+    "size_mb": 0.363,
+    "sha256": "7259a4167a64c2f755517f153e1009acc7492b5b60ec94a8c8798a7f26683938",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 174,
+      "code_cells": 132,
+      "with_outputs": 8,
+      "total_output_chars": 22521,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7_04_C_IA3.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_04_C_IA3/submission_P7_04_C_IA3.zip",
+    "size_bytes": 7322,
+    "size_mb": 0.007,
+    "sha256": "469f3729447d5b4c1e86108f829324ef44f3692921e22f63021286cf21decf56",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_05_D_Prefix/observations.zip",
+    "size_bytes": 1833694,
+    "size_mb": 1.749,
+    "sha256": "5bc1ed1c4af26bfa949c8086b97851ec5c5abfb16a3453b5b88a62cb279827ef",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7-05-d-prefix.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_05_D_Prefix/p7-05-d-prefix.ipynb",
+    "size_bytes": 382367,
+    "size_mb": 0.365,
+    "sha256": "f4cca58639b25f91fa6f3d782fc25ac898f14f92319e936fdc727346fc23e2bf",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 174,
+      "code_cells": 132,
+      "with_outputs": 8,
+      "total_output_chars": 23726,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7_05_D_Prefix.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Baseline_Dense_Runs/P7_05_D_Prefix/submission_P7_05_D_Prefix.zip",
+    "size_bytes": 7328,
+    "size_mb": 0.007,
+    "sha256": "b726328f446d42df272bbc9e2360fe17a98557e03fd88ccb704ada47cc576795",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "distillation_verification.json",
+    "relative_path": "Phase7_PriorCaseRetrieval/Distillation_P7S_07/distillation_verification.json",
+    "size_bytes": 2564,
+    "size_mb": 0.002,
+    "sha256": "cef027f5a32a71ec32ff3dac3e75cfb4b6d21e65e61b5a0979504210900417b3",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "P7_07_B_Automatic_Distillation.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Distillation_P7S_07/P7_07_B_Automatic_Distillation.ipynb",
+    "size_bytes": 331684,
+    "size_mb": 0.316,
+    "sha256": "f5b55b94c37b05c844660a09c5fee84eeb634d4a90a436545fd8b65436be941b",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 175,
+      "code_cells": 132,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "P7S_07_B_Automatic_Distillation.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Distillation_P7S_07/P7S_07_B_Automatic_Distillation.ipynb",
+    "size_bytes": 385810,
+    "size_mb": 0.368,
+    "sha256": "0920c94f11dec1b6a93e7e05c4970b28d631917dd5cefd0200d5a716633407d5",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 207,
+      "code_cells": 155,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "P7S_08_Validated_Hybrid_Ensemble.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Ensemble_and_Audit/P7S_08_Validated_Hybrid_Ensemble.ipynb",
+    "size_bytes": 306294,
+    "size_mb": 0.292,
+    "sha256": "6081de1faa0f369ec35887b076da41965d6c86179760459053a0d4808886d4e2",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 154,
+      "code_cells": 122,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "P7S_09_Final_Six_Method_Audit.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Ensemble_and_Audit/P7S_09_Final_Six_Method_Audit.ipynb",
+    "size_bytes": 306288,
+    "size_mb": 0.292,
+    "sha256": "da16a5d9f01bf583f14e54112acb6c222d627c1e098be599d19ee65d7b3e1b04",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 154,
+      "code_cells": 122,
+      "with_outputs": 0,
+      "total_output_chars": 0,
+      "is_executed": false
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_01_A_LoRMA/observations.zip",
+    "size_bytes": 933760,
+    "size_mb": 0.891,
+    "sha256": "4d3055e716dc46d4e53b6f2dbf1ca4e1097044ec0e30a0820566e6ddb492ff25",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7s-01-a-lorma.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_01_A_LoRMA/p7s-01-a-lorma.ipynb",
+    "size_bytes": 473572,
+    "size_mb": 0.452,
+    "sha256": "8c43db8cb93a30e7437f5dae518bac944b63a5cc75d62558576fd7edb5257eb9",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 206,
+      "code_cells": 155,
+      "with_outputs": 11,
+      "total_output_chars": 89883,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7S_01_A_LoRMA.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_01_A_LoRMA/submission_P7S_01_A_LoRMA.zip",
+    "size_bytes": 7301,
+    "size_mb": 0.007,
+    "sha256": "5cc57cab5592b70f70158b9f444a0d53229743350b2ee549295f86021bff4980",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_02_A_Partial/observations.zip",
+    "size_bytes": 934278,
+    "size_mb": 0.891,
+    "sha256": "4ad3384b544a8814add8c82b127a99df989524b41aad56e12af48eb499439d04",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7s-02-a-partial.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_02_A_Partial/p7s-02-a-partial.ipynb",
+    "size_bytes": 525671,
+    "size_mb": 0.501,
+    "sha256": "a8a6dfed70cbd81d9c32922a80c7fad0e5783ef912acf636b089cc05e9589228",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 206,
+      "code_cells": 155,
+      "with_outputs": 11,
+      "total_output_chars": 89956,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7S_02_A_Partial.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_02_A_Partial/submission_P7S_02_A_Partial.zip",
+    "size_bytes": 7327,
+    "size_mb": 0.007,
+    "sha256": "16678ccae1a77a2809353b9cbbec662f64b8c1d714ddc3acb716b14dd49b1d83",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_03_B_Prompt/observations.zip",
+    "size_bytes": 934705,
+    "size_mb": 0.891,
+    "sha256": "0b0c3b23f7a51e97412cf9977db40aac34239364e452bb7d8eacda15ae8db959",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7s-03-b-prompt.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_03_B_Prompt/p7s-03-b-prompt.ipynb",
+    "size_bytes": 525634,
+    "size_mb": 0.501,
+    "sha256": "7b3568d90b221e7fa871eb369ec37da5be204f2da4d809564fc5dafe18aae994",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 206,
+      "code_cells": 155,
+      "with_outputs": 11,
+      "total_output_chars": 89929,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7S_03_B_Prompt.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_03_B_Prompt/submission_P7S_03_B_Prompt.zip",
+    "size_bytes": 7349,
+    "size_mb": 0.007,
+    "sha256": "26fb5c4c2a67fbab9421ec97659f819d905915c949db395f4fcdcb22bd2b50c4",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_04_C_IA3/observations.zip",
+    "size_bytes": 928331,
+    "size_mb": 0.885,
+    "sha256": "c1d0d2666c280a5b9f615f0a18ac3ae4c132b721576799c2a65ab1ca420492b7",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7s-04-c-ia3.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_04_C_IA3/p7s-04-c-ia3.ipynb",
+    "size_bytes": 525525,
+    "size_mb": 0.501,
+    "sha256": "2b8fa4f26f361408f56bdeca4f7ff04fedc07f7e59b245d575c4fa509020fc22",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 206,
+      "code_cells": 155,
+      "with_outputs": 11,
+      "total_output_chars": 89834,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7S_04_C_IA3.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_04_C_IA3/submission_P7S_04_C_IA3.zip",
+    "size_bytes": 7322,
+    "size_mb": 0.007,
+    "sha256": "6d788ded45ddad28c0459fc431a93a2931dff0958cc214149ca5a256a0441fef",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "observations.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_05_D_Prefix/observations.zip",
+    "size_bytes": 926551,
+    "size_mb": 0.884,
+    "sha256": "da036e5ea8ad6a1d173a8cff6484f07371be239b719d0d7651ec0539a5e2d259",
+    "is_notebook": false,
+    "nb_info": {}
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "p7s-05-d-prefix.ipynb",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_05_D_Prefix/p7s-05-d-prefix.ipynb",
+    "size_bytes": 525635,
+    "size_mb": 0.501,
+    "sha256": "4d903a1ea54dccd779ddf39270ed60c835e92eb477ee7ca20f289c801680e1fa",
+    "is_notebook": true,
+    "nb_info": {
+      "total_cells": 206,
+      "code_cells": 155,
+      "with_outputs": 11,
+      "total_output_chars": 89913,
+      "is_executed": true
+    }
+  },
+  {
+    "phase": "Phase7_PriorCaseRetrieval",
+    "filename": "submission_P7S_05_D_Prefix.zip",
+    "relative_path": "Phase7_PriorCaseRetrieval/Improved_Hybrid_RRF_Runs/P7S_05_D_Prefix/submission_P7S_05_D_Prefix.zip",
+    "size_bytes": 7328,
+    "size_mb": 0.007,
+    "sha256": "d39d0ed834e311c300147b9a3378ae59d87a4f286f5945400f3ca99b46a89c14",
+    "is_notebook": false,
+    "nb_info": {}
+  }
+]

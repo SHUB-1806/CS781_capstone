@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "test_groups": 9,
+  "test_log": "bcd_verification.log",
+  "artifacts": {
+    "b": {
+      "path": "C:\\Users\\SHUBHAM\\OneDrive - IIT Kanpur\\Desktop\\SEM5\\CS781\\Capstone Project 2\\Phase1_FINAL_outputs\\Training_Notebooks\\modelb-continue-training.ipynb",
+      "sha256": "c409503a3c0a6e788ec9be77e831b45bfa67b275f67c715a15ccace488fc98ea",
+      "source_notebook_sha256": "2fb026ba9ca040687696c71e3428d2e4cd77280e632e7d2b1aa47c2d5ddde687",
+      "recorded_fingerprint_reproduced": "e686c0f98fb5fe8fc03553d0151961dd6af0dd52ac041753de0502521a922bb1",
+      "source_torch": "2.10.0+cu128",
+      "source_completed_epochs": 3,
+      "source_global_step": 24267,
+      "source_optimizer_steps": 24256,
+      "default_additional_epochs": 1,
+      "default_target_epoch": 4,
+      "data_fingerprint": "3571562850214ac1b423548cb0020fdcf1a3ffd8956e0368c456ec1b100292f4",
+      "observed_hours_per_epoch": 2.6169444444444445
+    },
+    "c": {
+      "path": "C:\\Users\\SHUBHAM\\OneDrive - IIT Kanpur\\Desktop\\SEM5\\CS781\\Capstone Project 2\\Phase1_FINAL_outputs\\Training_Notebooks\\modelc-continue-training.ipynb",
+      "sha256": "6059ff7028851077e8b7594507ed34936446bf68165cba774eb39e844f9e40c4",
+      "source_notebook_sha256": "e16c2bc2d969003bb9bb2c9bb7fe46d044bf1be8bb58b0855354b5e1815f8402",
+      "recorded_fingerprint_reproduced": "8febd61da7f1d32f78eee1cd4a865d72e5a5b3a0068739210db323859c6d7caa",
+      "source_torch": "2.11.0+cu128",
+      "source_completed_epochs": 1,
+      "source_global_step": 7383,
+      "source_optimizer_steps": 7381,
+      "default_additional_epochs": 1,
+      "default_target_epoch": 2,
+      "data_fingerprint": "092deede43ffd17c00e5d11e1f4aa3a443b7939af4504c488426b70c53d1ed54",
+      "observed_hours_per_epoch": 6.47
+    },
+    "d": {
+      "path": "C:\\Users\\SHUBHAM\\OneDrive - IIT Kanpur\\Desktop\\SEM5\\CS781\\Capstone Project 2\\Phase1_FINAL_outputs\\Training_Notebooks\\modeld-continue-training.ipynb",
+      "sha256": "f85a390625d00c1e27d52b6e72c46a41aed0d03811505925de2cd8ccf649d5e6",
+      "source_notebook_sha256": "ba4bf5762331f7161ec8ab55a402e344a50d11aa5937524d996e8800b898b1f2",
+      "recorded_fingerprint_reproduced": "b9659899c46424ec56ad0607f32bd6e7097752a8066dd30a38764469e05c1352",
+      "source_torch": "2.11.0+cu128",
+      "source_completed_epochs": 1,
+      "source_global_step": 1828,
+      "source_optimizer_steps": 1828,
+      "default_additional_epochs": 1,
+      "default_target_epoch": 2,
+      "data_fingerprint": "3a4dc2be3ff16945069b15d7a2e351012d4a0c9319b95b5e4534cc6596e8693f",
+      "observed_hours_per_epoch": 5.579722222222222
+    }
+  },
+  "checks": [
+    "All three recorded source/config/data/Torch fingerprints reproduced",
+    "Full model counts verified: B 62490624, C 103060224, D 110119680",
+    "Actual B archive source/config/latest receipt matches original notebook",
+    "All three embedded notebook setups execute without companion files",
+    "CPU checkpoint migration preserves model, optimizer, scaler, scheduler, cursor/history and both rank RNG states",
+    "Original epoch loops run the next cumulative epoch then stop; saved outputs start the subsequent target",
+    "Notebook epoch-assessment cells execute against produced summaries",
+    "Same-session reruns stay pinned; explicit absolute targets extend; partial cursors retained; incompatible code/data rejected",
+    "Small actual B/C/D architectures restore CPU and CUDA optimizer/scaler state and produce matching subsequent weights",
+    "B 2.10 to 2.11 metadata migration checked with simulated version labels"
+  ],
+  "local_torch": "2.5.1+cu121",
+  "local_cuda_device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "native_torch_211_execution_tested": false,
+  "full_corpus_dual_t4_training_executed": false,
+  "b_archive_checkpoint_tensor_payload_loaded": false,
+  "scope": "Genuine small model updates, actual embedded notebook setup/assessment and original training loops; no full-corpus or dual-T4 execution claimed.",
+  "recommendation": "One additional measured epoch now per model: B4/C2/D2; exact optimal totals cannot be determined from current logs.",
+  "review_threshold_relative_ppl_gain": 0.01,
+  "review_threshold_equivalent_nll_drop": 0.01005033585350145,
+  "threshold_is_statistical_significance": false
+}
