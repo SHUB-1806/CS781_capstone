@@ -1,0 +1,80 @@
+{
+  "Fact": {
+    "precision": 0.6183908045977011,
+    "recall": 0.6058558558558559,
+    "f1": 0.6120591581342435,
+    "support": 444
+  },
+  "Issue": {
+    "precision": 0.875,
+    "recall": 0.4666666666666667,
+    "f1": 0.6086956521739131,
+    "support": 15
+  },
+  "ArgumentPetitioner": {
+    "precision": 0.6885245901639344,
+    "recall": 0.525,
+    "f1": 0.5957446808510638,
+    "support": 400
+  },
+  "ArgumentRespondent": {
+    "precision": 0.5981735159817352,
+    "recall": 0.48161764705882354,
+    "f1": 0.5336048879837068,
+    "support": 272
+  },
+  "Statute": {
+    "precision": 0.7703703703703704,
+    "recall": 0.8666666666666667,
+    "f1": 0.8156862745098039,
+    "support": 120
+  },
+  "Dissent": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 0
+  },
+  "PrecedentReliedUpon": {
+    "precision": 0.6101694915254238,
+    "recall": 0.28346456692913385,
+    "f1": 0.3870967741935484,
+    "support": 254
+  },
+  "PrecedentNotReliedUpon": {
+    "precision": 0.32941176470588235,
+    "recall": 0.56,
+    "f1": 0.4148148148148148,
+    "support": 50
+  },
+  "PrecedentOverruled": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 0
+  },
+  "RulingByLowerCourt": {
+    "precision": 0.3358208955223881,
+    "recall": 0.4411764705882353,
+    "f1": 0.3813559322033898,
+    "support": 102
+  },
+  "RatioOfTheDecision": {
+    "precision": 0.43884892086330934,
+    "recall": 0.6054590570719603,
+    "f1": 0.5088633993743483,
+    "support": 403
+  },
+  "RulingByPresentCourt": {
+    "precision": 0.5,
+    "recall": 0.4897959183673469,
+    "f1": 0.4948453608247423,
+    "support": 49
+  },
+  "None": {
+    "precision": 0.16279069767441862,
+    "recall": 0.42424242424242425,
+    "f1": 0.23529411764705882,
+    "support": 33
+  }
+}
